@@ -6,7 +6,7 @@ var today = new Date()
 
 about = [
     "<br>",
-    "Hey, I'm Lohit Kolluri]]]! 👋",
+    "Hey, I'm Lohit Kolluri! 👋",
     "<br>",
     "I'm a student at SRM University, Kattankulathur,.",
     "I love to build things that are useful and can have a positive impact on other people's lives.",
