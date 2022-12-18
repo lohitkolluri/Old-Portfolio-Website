@@ -64,11 +64,11 @@ social = [
 projects = [
     "<br>",
     // 1st project
-    '<span class="command">4. Portfolio Website</span>',
+    '<span class="command">1. Mini Project</span>',
     '<br>',
-    'My first portfolio website made with 100% HTML in my 1st year of collage.',
+    'Collection of all my mini projects that i will be doing in during my college.',
     '<br>',
-    'Click the following links to know more: <a href = "https://github.com/lohitkolluri/lohitkolluri.github.io" target="_blank">(Github)</a>',
+    'Click the following links to know more: <a href = "https://github.com/lohitkolluri/Mini-Projects" target="_blank">(Github)</a>',
     "<br>",
 ];
 
