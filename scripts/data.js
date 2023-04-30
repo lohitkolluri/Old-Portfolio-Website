@@ -39,15 +39,15 @@ banner = [
 
 help = [
     "<br>",
-    '👦🏻  <span class="command">about</span>          About Me',
-    '🌏  <span class="command">social</span>         Display social networks',
-    '🏗  <span class="command">projects</span>       View coding projects',
-    '📧  <span class="command">email</span>          Reach me through email',
-    '🧹  <span class="command">clear</span>          Clear the terminal',
-    '❓  <span class="command">help</span>           Open the help menu',
-    '🕰  <span class="command">history</span>        View command history',
-    '🇮🇳  <span class="command">banner</span>         Display the header',
-    '👋  <span class="command">exit</span>           Close the tab and exit',
+    '👦🏻  <span class="command">About</span>          About Me',
+    '🌏  <span class="command">Social</span>         Display social networks',
+    '🏗  <span class="command">Projects</span>       View coding projects',
+    '📧  <span class="command">Email</span>          Reach me through email',
+    '🧹  <span class="command">Clear</span>          Clear the terminal',
+    '❓  <span class="command">Help</span>           Open the help menu',
+    '🕰  <span class="command">History</span>        View command history',
+    '🇮🇳  <span class="command">Banner</span>         Display the header',
+    '👋  <span class="command">Exit</span>           Close the tab and exit',
     "<br>",
 ];
 
@@ -63,12 +63,20 @@ social = [
 
 projects = [
     "<br>",
-    // 1st project
-    '<span class="command">1. Mini Project</span>',
+    '<span class="command">1. Bus Ticket Reservation System</span>',
+    '<br>',
+    "<br>",
+    '<span class="command">2. Calculator (HTML/CSS)',
+    '<br>',
+    "<br>",
+    '<span class="command">3. Credit Card Validator>',
+    '<br>',
+    "<br>",
+    '<span class="command">4. Mini Projects Management System</span>',
     '<br>',
     'Collection of all my mini projects that i will be doing in during my college.',
     '<br>',
-    'Click the following links to know more: <a href = "https://github.com/lohitkolluri/Mini-Projects" target="_blank">(Github)</a>',
+    'Click the following links to view my projeects: <a href = "https://github.com/lohitkolluri/Mini-Projects" target="_blank">(Github)</a>',
     "<br>",
 ];
 
