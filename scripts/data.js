@@ -46,7 +46,6 @@ help = [
     '🧹  <span class="command">Clear</span>          Clear the terminal',
     '❓  <span class="command">Help</span>           Open the help menu',
     '🕰  <span class="command">History</span>        View command history',
-    '🇮🇳  <span class="command">Banner</span>         Display the header',
     '👋  <span class="command">Exit</span>           Close the tab and exit',
     "<br>",
 ];
