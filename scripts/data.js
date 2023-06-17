@@ -1,7 +1,6 @@
 const linkedin = "https://www.linkedin.com/in/kollurilohit/";
-const instagram = "https://www.instagram.com/kollurilohit/";
 const github = "https://github.com/lohitkolluri/";
-const email = 'mailto:lohitkolluri99@gmail.com';
+const email = 'mailto:lohitkolluri@gmail.com';
 var today = new Date()
 
 about = [
@@ -56,7 +55,6 @@ social = [
     "<br>",
     'Linkedin       <a href="' + linkedin + '" target="_blank">linkedin/kollurilohit' + "</a>",
     'Github         <a href="' + github + '" target="_blank">github/lohitkolluri' + "</a>",
-    'Instagram      <a href="' + instagram + '" target="_blank">instagram/kollurilohit' + '</a>',
     "<br>"
 ];
 
@@ -72,8 +70,6 @@ projects = [
     '<br>',
     "<br>",
     '<span class="command">4. Mini Projects Management System</span>',
-    '<br>',
-    'Collection of all my mini projects that i will be doing in during my college.',
     '<br>',
     'Click the following links to view my projeects: <a href = "https://github.com/lohitkolluri/Mini-Projects" target="_blank">(Github)</a>',
     "<br>",
