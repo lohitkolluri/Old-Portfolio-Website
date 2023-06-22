@@ -91,10 +91,10 @@ function router(cmd){
             addLine("Opening Github...", "color2", 0);
             openNewTab(github);
             break;
-        case "instagram":
-            addLine("Opening Instagram...", "color2", 0);
-            openNewTab(instagram);
-            break;
+        // case "instagram":
+        //     addLine("Opening Instagram...", "color2", 0);
+        //     openNewTab(instagram);
+        //     break;
 
         case "ls":
             addLine("So you are a real programmer at heart ❤️. PS. It's just a website!<br>", "color2", 0);
