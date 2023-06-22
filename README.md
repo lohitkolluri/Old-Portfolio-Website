@@ -1,6 +1,6 @@
-# Portfolio Website
+# Portfolio Website (OLD)
 
-This is the documentation for my portfolio website, which showcases my projects and provides information about me.
+This is the documentation for my portfolio website, which showcases my projects and provides information about me. Now i use a new portfolio website.
 
 ## File Structure
 
@@ -23,7 +23,7 @@ The file structure of the website is as follows:
 
 ## Description
 
-The portfolio website serves as a platform for me to showcase my projects, provide information about myself, and display my social media profiles. It has a terminal-like interface that allows users to interact with the website using commands.
+This portfolio website serves as a platform for me to showcase my projects, provide information about myself, and display my social media profiles. It has a terminal-like interface that allows users to interact with the website using commands.
 
 ## Usage
 
