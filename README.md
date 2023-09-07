@@ -1,7 +1,5 @@
 # Portfolio Website (OLD)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d5243264-1e02-441b-95ee-b2b2adbbbea6/deploy-status)](https://app.netlify.com/sites/lohitkolluri-old/deploys)
-
 This is the documentation for my portfolio website, which showcases my projects and provides information about me. Now i use a new portfolio website.
 
 ## File Structure
