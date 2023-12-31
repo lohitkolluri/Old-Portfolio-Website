@@ -23,13 +23,13 @@ Here're some of the project's best features:
 <p>1. Clone the repository:</p>
 
 ```
-git clone https://github.com/lohitkolluri/Portfolio.git
+git clone https://github.com/lohitkolluri/Old-Portfolio-Website
 ```
 
 <p>2. Go to the directory:</p>
 
 ```
-cd Portfolio
+cd Old-Portfolio-Website
 ```
 
 <p>3. Open the index.html file in a web browser</p>
