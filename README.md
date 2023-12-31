@@ -1,45 +1,50 @@
-# Portfolio Website (OLD)
+<h1 align="center" id="title">Portfolio Website V1</h1>
 
-This documentation pertains to my previous portfolio website, which has been replaced by a new version. The website showcased my projects and provided information about me.
+<p id="description">This portfolio website acted as a platform for showcasing my projects providing information about myself and displaying my social media profiles. It featured a terminal-like interface for user interaction.</p>
 
-## File Structure
+<h2>🚀 Demo</h2>
+
+[https://v1.lohitkolluri.tech/](https://v1.lohitkolluri.tech/)
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Command Execution and Routing
+*   Command History Navigation
+*   Dynamic Content Printing
+*   Command Line Interface (CLI) Simplicity
+*   External Link Opening
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Clone the repository:</p>
 
 ```
-- composer.json
-- index.html
-- index.php
-- README.md
-- images/
-  - terminal.png
-- scripts/
-  - cursor.js
-  - data.js
-  - main.js
-- style/
-  - style.css
+git clone https://github.com/lohitkolluri/Portfolio.git
 ```
 
-## Description
+<p>2. Go to the directory:</p>
 
-This portfolio website acted as a platform for showcasing my projects, providing information about myself, and displaying my social media profiles. It featured a terminal-like interface for user interaction.
+```
+cd Portfolio
+```
 
-## Usage
+<p>3. Open the index.html file in a web browser</p>
 
-To view the website, simply open the `index.html` file in a web browser. The website is designed to be responsive and compatible with modern browsers.
+  
+  
+<h2>💻 Built with</h2>
 
-## Dependencies
+Technologies used in the project:
 
-The website doesn't rely on external dependencies. However, it utilizes the following files for functionality:
+*   JavaScript
+*   HTML
+*   CSS
+*   Browser DOM
 
-- `cursor.js`: Manages the behavior of the cursor on the website.
-- `data.js`: Contains data for various sections, such as the about section, banner, help menu, etc.
-- `main.js`: Holds the main JavaScript code for the website.
+<h2>🛡️ License:</h2>
 
-## Customization
-
-For customization, modify the following files:
-
-- `style.css`: Adjust colors, styles, and layout.
-- `data.js`: Update content for the about section, banner, help menu, and other sections.
-
-Feel free to explore the website and enjoy!
+This project is licensed under the [MIT License](LICENSE)
