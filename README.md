@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://v1.lohitkolluri.tech/](https://v1.lohitkolluri.tech/)
+[https://lohitkolluri.github.io/Old-Portfolio-Website/](https://lohitkolluri.github.io/Old-Portfolio-Website/)
 
   
   
